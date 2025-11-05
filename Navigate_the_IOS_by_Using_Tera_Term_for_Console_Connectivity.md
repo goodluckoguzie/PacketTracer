@@ -1,8 +1,6 @@
 # Packet Tracer – Navigate the IOS
 
-_A fully editable, copyable answer key with explanations. Use this as your worksheet. You can download it from the top-right._
 
----
 
 ## Part 1: Establish basic connections, access the CLI, and explore Help
 
@@ -79,7 +77,7 @@ _A fully editable, copyable answer key with explanations. Use this as your works
 
 ---
 
-## Quick recap (teen‑friendly)
+## Quick recap 
 - **Modes are like game menus:**
   - `S1>` look only; `S1#` you’re the boss; `S1(config)#` you change settings.
 - **`?` = built‑in hint button.** Use it anywhere to see options.
