@@ -63,7 +63,7 @@ Router>
 
 ---
 
-## Reflection Questions (Sample Answers)
+## Reflection Questions
 
 **1) How do you prevent unauthorized personnel from accessing the Cisco device through the console port?**
 - Set a console password and require login:
