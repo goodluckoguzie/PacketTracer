@@ -1,8 +1,6 @@
 # Packet Tracer – Navigate the IOS
 
-_A fully editable, copyable answer key with explanations. Use this as your worksheet. You can download it from the top-right._
 
----
 
 ## Part 1: Establish basic connections, access the CLI, and explore Help
 
