@@ -1,8 +1,6 @@
 # Packet Tracer – Navigate the IOS Using a Terminal Client for Console Connectivity (Physical Mode)
 
-_A fully editable, copyable answer key with explanations. Use the Download control (top‑right) to save a copy._
 
----
 
 ## Part 1: Access a Cisco Switch through the Serial Console Port
 
